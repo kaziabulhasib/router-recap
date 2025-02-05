@@ -21,7 +21,7 @@
       "pages": 328,
       "publisher_name": "Secker & Warburg",
       "summary": "1984 is a dystopian novel by George Orwell published in 1949. It explores themes of totalitarianism, surveillance, and individuality, following the life of Winston Smith as he rebels against the oppressive Party.",
-      "cover_img": "https://example.com/covers/1984.jpg"
+      "cover_img": "https://i.ibb.co/DDzTzpMH/atomic-habits.jpg"
     },
     {
       "book_name": "Pride and Prejudice",
@@ -29,7 +29,7 @@
       "pages": 279,
       "publisher_name": "T. Egerton, Whitehall",
       "summary": "Pride and Prejudice is a romantic novel by Jane Austen, first published in 1813. It follows the emotional development of Elizabeth Bennet, who learns the error of making hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness.",
-      "cover_img": "https://example.com/covers/pride-prejudice.jpg"
+      "cover_img": "https://i.ibb.co/C518QpM7/Mans-search-for-life.png"
     },
     {
       "book_name": "The Catcher in the Rye",
@@ -37,7 +37,7 @@
       "pages": 234,
       "publisher_name": "Little, Brown and Company",
       "summary": "The Catcher in the Rye is a novel by J.D. Salinger, first published in 1951. It follows the story of Holden Caulfield, a teenager who struggles with alienation and loss after being expelled from his prep school.",
-      "cover_img": "https://example.com/covers/catcher-rye.jpg"
+      "cover_img": "https://i.ibb.co/C518QpM7/Mans-search-for-life.png"
     },
     {
       "book_name": "Moby-Dick",
@@ -45,7 +45,7 @@
       "pages": 585,
       "publisher_name": "Harper & Brothers",
       "summary": "Moby-Dick is an 1851 novel by Herman Melville. It tells the story of Captain Ahab's obsessive quest to hunt the white whale, Moby-Dick, and explores themes of obsession, revenge, and the struggle against nature.",
-      "cover_img": "https://example.com/covers/moby-dick.jpg"
+      "cover_img": "https://i.ibb.co/DDzTzpMH/atomic-habits.jpg"
     },
     {
       "book_name": "The Hobbit",
@@ -53,7 +53,7 @@
       "pages": 310,
       "publisher_name": "George Allen & Unwin",
       "summary": "The Hobbit is a fantasy novel by J.R.R. Tolkien, published in 1937. It follows the journey of Bilbo Baggins, a hobbit who embarks on an adventure to reclaim treasure guarded by the dragon Smaug.",
-      "cover_img": "https://example.com/covers/hobbit.jpg"
+      "cover_img": "https://i.ibb.co/C518QpM7/Mans-search-for-life.png"
     },
     {
       "book_name": "Brave New World",
@@ -61,7 +61,7 @@
       "pages": 311,
       "publisher_name": "Chatto & Windus",
       "summary": "Brave New World is a dystopian novel by Aldous Huxley, published in 1932. It depicts a futuristic society where technological advancements have created a seemingly perfect world, but at the cost of individuality and freedom.",
-      "cover_img": "https://example.com/covers/brave-new-world.jpg"
+      "cover_img": "https://i.ibb.co/DDzTzpMH/atomic-habits.jpg-world.jpg"
     },
     {
       "book_name": "The Lord of the Rings",
@@ -69,7 +69,7 @@
       "pages": 1178,
       "publisher_name": "George Allen & Unwin",
       "summary": "The Lord of the Rings is an epic high-fantasy novel by J.R.R. Tolkien, published in three volumes between 1954 and 1955. It follows the quest to destroy the One Ring and defeat the Dark Lord Sauron.",
-      "cover_img": "https://example.com/covers/lord-of-the-rings.jpg"
+      "cover_img": "https://i.ibb.co/C518QpM7/Mans-search-for-life.png"
     },
     {
       "book_name": "The Alchemist",
@@ -77,7 +77,7 @@
       "pages": 208,
       "publisher_name": "HarperTorch",
       "summary": "The Alchemist is a novel by Paulo Coelho, first published in 1988. It tells the story of Santiago, a young shepherd who dreams of finding a worldly treasure and embarks on a journey of self-discovery.",
-      "cover_img": "https://example.com/covers/alchemist.jpg"
+      "cover_img": "https://i.ibb.co/DDzTzpMH/atomic-habits.jpg"
     },
     {
       "book_name": "The Diary of a Young Girl",
@@ -85,7 +85,7 @@
       "pages": 283,
       "publisher_name": "Contact Publishing",
       "summary": "The Diary of a Young Girl is a book based on the diary of Anne Frank, a Jewish girl who chronicled her life in hiding during the German occupation of the Netherlands in World War II.",
-      "cover_img": "https://example.com/covers/anne-frank.jpg"
+      "cover_img": "https://i.ibb.co/C518QpM7/Mans-search-for-life.png"
     },
     {
       "book_name": "The Road",
@@ -93,6 +93,6 @@
       "pages": 241,
       "publisher_name": "Alfred A. Knopf",
       "summary": "The Road is a post-apocalyptic novel by Cormac McCarthy, published in 2006. It follows a father and son as they journey through a bleak, desolate landscape in search of safety and hope.",
-      "cover_img": "https://example.com/covers/the-road.jpg"
+      "cover_img": "https://i.ibb.co/DDzTzpMH/atomic-habits.jpg"
     }
   ]
