@@ -8,3 +8,8 @@
   border: 2px solid violet;
   text-align: center;
 }
+
+/* New rule for the Outlet container */
+.content {
+  min-height: 80vh;
+}
