@@ -1,24 +1,16 @@
 // import { useEffect, useState } from "react";
-import Book from "./Book";
+import User from "./User";
 import { useLoaderData } from "react-router-dom";
+
 const Home = () => {
-  // const [books, setBooks] = useState([]);
-  // useEffect(() => {
-  //   fetch("data.json")
-  //     .then((res) => res.json())
-  //     .then((data) => {
-  //       setBooks(data);
-  //       console.log(data);
-  //     });
-  // }, []);
-  const books = useLoaderData();
+  const users = useLoaderData();
   return (
     <div>
-      <h1>Books: {books.length}</h1>
+      <h1>users: {users.length}</h1>
 
       <div className='book-container'>
-        {books.map((book) => (
-          <Book key={book.id} book={book} />
+        {users.map((user) => (
+          <User key={user.id} user={user} />
         ))}
       </div>
     </div>
